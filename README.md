@@ -30,7 +30,7 @@ The challenge required balancing **technical analytics** with **business storyte
 - **Customer Segmentation & Visualization**  
 - **Storytelling with Data for Stakeholders**  
 
-**Tools Used:** Python (Pandas, Matplotlib, Seaborn), Power BI / Tableau (optional), SQL  
+**Tools Used:** Python (Pandas, Matplotlib, Seaborn)
 
 ---
 
